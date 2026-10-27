@@ -2,6 +2,21 @@
 
 Thanks for checking your setup before the workshop! This takes about 5 minutes.
 
+## Start here
+
+Click the button below to open this repo in a GitHub Codespace. A Codespace
+is a ready-to-go coding environment in your browser, so there's nothing to
+install on your computer.
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/darrellbooker/copilot-cli-setup-check?quickstart=1)
+
+On the next page, click **Create codespace**. Setup takes a few minutes.
+When it's done, this README opens in the editor and a terminal appears at
+the bottom of the window.
+
+> **Tip:** If your work or school account blocks Codespaces or Copilot, try
+> again with a personal GitHub account.
+
 ## Run the check
 
 1. In the terminal at the bottom of this window, type:
@@ -16,7 +31,9 @@ Thanks for checking your setup before the workshop! This takes about 5 minutes.
 
 - Copilot started without errors
 - You signed in successfully
-- You saw a list of available models after typing `/model`
+- The model picker opened after typing `/model`, with **Auto** selected.
+  Depending on your Copilot plan, you can start typing to search for other
+  models, or Auto may be your only option. Either way, you're all set.
 
 Type `/exit` to close Copilot.
 
